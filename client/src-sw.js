@@ -43,4 +43,3 @@ registerRoute(
   })
 );
 
-offlineFallback();
