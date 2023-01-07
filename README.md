@@ -6,7 +6,7 @@ This repository is where I refactor code for a PWA text editor application. Just
 
 ## Installation
 
-N/A
+Click the install button to download an icon for the J.A.T.E text editor to your desktop.
 
 ## Usage
 
