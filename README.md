@@ -12,7 +12,7 @@ N/A
 
 Open the website to start the J.A.T.E text editor application. Here you can add text and it will be saved to the editor. You can use next-gen ES6 JavaScript syntax and the content within the editor will be highlighted accordingly. To save a copy of the text editor to your desktop, click the Install button. An icon will be added to your desktop. When you click out of the text box, a copy of the text content will be saved to the database, as well as to your local storage. When you re-open J.A.T.E, the stored content will populate the editor.
 
-Deployed URL: (#)
+Deployed URL: (https://bechedley-pwa-editor.herokuapp.com/)
 
 ![Screenshot of VS Code](./client/src/images/pwa-screenshot-terminal.png)
 ![Screenshot of deployed app](./client/src/images/pwa-screenshot-service-worker.png)
