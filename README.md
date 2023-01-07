@@ -14,8 +14,8 @@ Open the website to start the J.A.T.E text editor application. Here you can add 
 
 Deployed URL: (#)
 
-![Screenshot of VS Code](#)
-![Screenshot of deployed app](#)
+![Screenshot of VS Code](./client/src/images/pwa-screenshot-terminal.png)
+![Screenshot of deployed app](./client/src/images/pwa-screenshot-service-worker.png)
 
 ## Credits
 
