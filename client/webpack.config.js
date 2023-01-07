@@ -32,8 +32,9 @@ module.exports = () => {
       // Injects our custom service worker
       new InjectManifest({
         swSrc: './src-sw.js',
-        swDest: './dist/src-sw.js',
+        swDest: 'src-sw.js',
       }),
+
       new MiniCssExtractPlugin(),
       // Creates a manifest.json file.
       new WebpackPwaManifest({
@@ -44,7 +45,7 @@ module.exports = () => {
         description: 'Takes notes with JavaScript syntax highlighting!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
-        start_url: '/',
+        start_url: './',
         publicPath: './',
         icons: [
           {
