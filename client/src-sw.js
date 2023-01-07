@@ -43,7 +43,3 @@ registerRoute(
   })
 );
 
-offlineFallback({
-  urls: ['/index.html', '/'],
-  strategy: pageCache,
-});
