@@ -43,4 +43,7 @@ registerRoute(
   })
 );
 
-offlineFallback();
+offlineFallback({
+  urls: ['/index.html', '/'],
+  strategy: pageCache,
+});
